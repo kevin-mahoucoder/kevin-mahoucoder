@@ -17,6 +17,11 @@
 
 [こちらで私のアカウント](https://github.com/takakode)
 
+## 臭味
+- ゲーム
+- 環境
+- 食べ物・レストラン
+
 <!--
 **kevin-mahoucoder/kevin-mahoucoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
